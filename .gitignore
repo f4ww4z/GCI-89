@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/maven
 
 ### Maven ###
+target
 target/
 pom.xml.tag
 pom.xml.releaseBackup
